@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/AliMZaini/google-transliterator-api.svg?token=DBtzE6aVUQsPLsj6qBSd&branch=master)](https://travis-ci.com/AliMZaini/google-transliterator-api)
+
 # google-transliterator-api
 
 An API wrapper for https://www.google.com/inputtools/try/
