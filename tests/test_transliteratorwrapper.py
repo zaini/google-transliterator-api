@@ -1,4 +1,4 @@
-from gtransliteratewrapper import Transliterator
+from transliteratorwrapper import Transliterator
 
 
 def test_transliterator():
