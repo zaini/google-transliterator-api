@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/AliMZaini/google-transliterator-api.svg?token=DBtzE6aVUQsPLsj6qBSd&branch=master)](https://travis-ci.com/AliMZaini/google-transliterator-api)
+[![Build Status](https://travis-ci.com/zaini/google-transliterator-api.svg?token=DBtzE6aVUQsPLsj6qBSd&branch=master)](https://travis-ci.com/zaini/google-transliterator-api)
 
 # google-transliterator-api
 
